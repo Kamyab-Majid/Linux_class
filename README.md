@@ -1,2 +1,17 @@
-# Linux_class
-A learning course for Linux.
+# Python_instruction
+
+Python_class is a Python library for teaching Linux basics.
+
+## Installation
+
+Clone the library for installation.
+
+```bash
+git clone https://github.com/MKamyab1991/linux_class.git
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
